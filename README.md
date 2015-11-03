@@ -34,8 +34,10 @@ The application should inlcude appropriate unit tests (unittest library is suffi
 Anything over 75% code coverage is considered acceptable.
 
 ## Extra credit
-1. Implement a real-time CRUD with a database back-end using either Redis or MongoDB.
+1. Create API documentation using RAML spec (http://raml.org/)
+2. Implement a real-time CRUD with a database back-end using either Redis or MongoDB.
 2. Implement unit tests using the nose library.
+  * Tests should not have a dependency on a database instance.
 
 ## Taking the challenge
 
